@@ -1,8 +1,8 @@
 # Simple_OScUI
+
+- used without "_" (SimpleOScUI) in hatch project
+
 Simple UI for quick device property monitoring on MicroManager
-
-# SimpleOScUI
-
 [![PyPI - Version](https://img.shields.io/pypi/v/simpleoscui.svg)](https://pypi.org/project/simpleoscui)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/simpleoscui.svg)](https://pypi.org/project/simpleoscui)
 
